@@ -24,8 +24,10 @@ test:
 
 production:
   adapter: postgresql
-  database: my_db_test
+  host: ec2-54-217-238-151.eu-west-1.compute.amazonaws.com
+  database: ddna7jcvoj0oe7
+  port: 5432
   pool: 5
   timeout: 5000
-  username: blog 
-  password: 
+  username: vrmsvsahcfhbkl 
+  password: ghr3IEghH-ByYY5F71SA0rM_I0
