@@ -4,8 +4,3 @@ class Ocp
   end
 end
 
-class Pippo
-  def pluto
-  end
-end
-
