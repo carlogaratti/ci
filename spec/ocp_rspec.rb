@@ -1,4 +1,4 @@
-require './ocp'
+require './spec/ocp'
 
 describe "Ocp" do
 
